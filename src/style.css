@@ -740,3 +740,17 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+#contact{
+  height : 400px;
+  width : 400px;
+  margin-left: 35%;
+  margin-top: 3%;
+  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) ;
+  color: white !important;
+  background-color: transparent !important;
+  opacity: 0.9 !important;
+  transition: width 11px;
+}
+#email{
+  color: blue;
+}
